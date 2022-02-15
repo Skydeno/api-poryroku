@@ -1,3 +1,5 @@
+# API pokazująca czy jest zimno lub ciepło na podstawie naszej lokalizacji i miesiąca
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
