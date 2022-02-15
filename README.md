@@ -1,4 +1,4 @@
-# API pokazująca czy jest zimno lub ciepło na podstawie naszej lokalizacji i miesiąca
+# API showing if its cold or warm outside, based on your location and month
 
 # Getting Started with Create React App
 
