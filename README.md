@@ -1,5 +1,6 @@
 # API showing if its cold or warm outside, based on your location and month
-LiveDeploy: https://goofy-nightingale-e0365e.netlify.app/
+## Live deploy 
+https://goofy-nightingale-e0365e.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
